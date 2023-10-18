@@ -1,0 +1,49 @@
+\contentsline {chapter}{Certificate}{i}{dummy.2}%
+\vspace {1em}
+\contentsline {chapter}{Project Report Approval}{ii}{dummy.3}%
+\vspace {1em}
+\contentsline {chapter}{Declaration}{iii}{dummy.4}%
+\vspace {1em}
+\contentsline {chapter}{Abstract}{iv}{dummy.5}%
+\vspace {1em}
+\contentsline {chapter}{Acknowledgements}{v}{dummy.6}%
+\vspace {1em}
+\contentsline {chapter}{Contents}{vi}{dummy.7}%
+\contentsline {chapter}{List of Figures}{viii}{dummy.9}%
+\contentsline {chapter}{List of Tables}{ix}{dummy.11}%
+\contentsline {chapter}{Abbreviations}{x}{dummy.13}%
+\contentsline {chapter}{Symbols}{xi}{dummy.16}%
+\vspace {2em}
+\contentsline {chapter}{\numberline {1}INTRODUCTION}{1}{chapter.19}%
+\contentsline {section}{\numberline {1.1}Introduction}{1}{section.20}%
+\contentsline {section}{\numberline {1.2}Objectives}{1}{section.21}%
+\contentsline {section}{\numberline {1.3}Purpose, Scope, and Applicability}{1}{section.22}%
+\contentsline {subsection}{\numberline {1.3.1}Purpose}{1}{subsection.23}%
+\contentsline {subsection}{\numberline {1.3.2}Scope}{2}{subsection.24}%
+\contentsline {subsection}{\numberline {1.3.3}Applicability}{2}{subsection.25}%
+\contentsline {section}{\numberline {1.4}Achievements}{2}{section.26}%
+\contentsline {section}{\numberline {1.5}Organisation of Report}{2}{section.27}%
+\contentsline {chapter}{\numberline {2}LIRERATURE SURVEY}{3}{chapter.28}%
+\contentsline {chapter}{\numberline {3}SURVEY OF TECHNOLOGIES}{4}{chapter.29}%
+\contentsline {chapter}{\numberline {4}REQUIREMENTS AND ANALYSIS}{5}{chapter.30}%
+\contentsline {section}{\numberline {4.1}Problem Definition}{5}{section.31}%
+\contentsline {section}{\numberline {4.2}Requirements Specification}{5}{section.32}%
+\contentsline {section}{\numberline {4.3}Planning and Scheduling}{5}{section.33}%
+\contentsline {section}{\numberline {4.4}Software and Hardware Requirements}{6}{section.34}%
+\contentsline {section}{\numberline {4.5}Preliminary Product Description}{6}{section.35}%
+\contentsline {section}{\numberline {4.6}Conceptual Models}{6}{section.36}%
+\contentsline {chapter}{\numberline {5}SYSTEM DESIGN}{7}{chapter.37}%
+\contentsline {section}{\numberline {5.1}Basic Modules}{7}{section.38}%
+\contentsline {subsection}{\numberline {5.1.1}Logic Diagrams}{7}{subsection.39}%
+\contentsline {subsection}{\numberline {5.1.2}Data Structures}{7}{subsection.40}%
+\contentsline {subsection}{\numberline {5.1.3}Algorithms Design}{7}{subsection.41}%
+\contentsline {section}{\numberline {5.2}User interface design}{7}{section.42}%
+\contentsline {section}{\numberline {5.3}Security Issues}{8}{section.43}%
+\contentsline {chapter}{\numberline {6}CONCLUSIONS}{9}{chapter.44}%
+\contentsline {section}{\numberline {6.1}Conclusion}{9}{section.45}%
+\contentsline {section}{\numberline {6.2}Limitations of the System}{9}{section.46}%
+\contentsline {section}{\numberline {6.3}Future Scope of the Project}{9}{section.47}%
+\vspace {2em}
+\contentsline {chapter}{\numberline {A}Appendix A}{10}{appendix.48}%
+\vspace {2em}
+\contentsline {chapter}{Bibliography}{12}{dummy.49}%
